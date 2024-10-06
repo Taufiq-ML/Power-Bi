@@ -2,4 +2,4 @@
 
 
 
-![Dashboard](blinkit dashboard.png)
+![Dashboard](blinkit/dashboard.png)
