@@ -1,4 +1,5 @@
 # Power-Bi
 
 
-blinkit dashboard.png
+
+![Dashboard](blinkit dashboard.png)
