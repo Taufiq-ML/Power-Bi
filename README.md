@@ -1,6 +1,8 @@
 # Blinkit Power BI Dashboard
 
-![Blinkit Dashboard](./blinkit-dashboard.png)
+![Blinkit Dashboard](blinkit%20dashboard.png "Blinkit Dashboard Overview")
+
+
 
 ## Overview
 
